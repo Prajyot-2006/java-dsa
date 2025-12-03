@@ -1,6 +1,6 @@
 // HW : total surface area of cuboid :TSA = 2(lb+bh+hl)
 
-package Basics;
+//package Basics;
 
 public class homework06 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Basics;
+//package Basics;
 
 public class printSomething01 {
     public static void main(String[] args) {

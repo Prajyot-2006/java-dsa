@@ -1,4 +1,4 @@
-package Basics;
+//package Basics;
 
 public class variable02 {
     
@@ -20,6 +20,7 @@ public class variable02 {
         int b = 9;
         b = a;
         System.out.println(b);
+
     }
     
 }
