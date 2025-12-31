@@ -4,7 +4,7 @@ Usecase: Generally used when conditions are more than one.
 Jab bhi iterations nahi pata ho ki kitni hai
 */
 
-public class whileLoop015 {
+public class whileAndDowhile015 {
     public static void main(String[] args) {
         System.out.println("For loop : ");
         for(int i=1;i<=5;i++) {  // initialization;condition;increment
