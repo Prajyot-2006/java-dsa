@@ -1,11 +1,11 @@
-/* Rotate the array   */
+/* Rotate the array : search on gfg platform for this entire question   */
 
 public class homework019 {
     public static void main(String[] args) {
 
         int arr[] = {1,2,3,4,5};
         int n = arr.length;
-        int r = 2;
+        int r = 2;   // so output => 3,4,5,1,2
         int temp[] = new int[5];
 
         int i=0;  // 0,1
