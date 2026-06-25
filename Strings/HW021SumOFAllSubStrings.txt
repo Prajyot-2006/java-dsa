@@ -1,0 +1,1 @@
+Question : https://www.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1

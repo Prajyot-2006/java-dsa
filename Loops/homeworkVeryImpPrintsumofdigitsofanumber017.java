@@ -3,7 +3,7 @@
 // HINT : n%10 gives the last digit of any number n 
 import java.util.Scanner;
 
-public class homework017 {
+public class homeworkVeryImpPrintsumofdigitsofanumber017 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

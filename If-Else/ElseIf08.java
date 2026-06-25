@@ -1,7 +1,7 @@
 // HW: Take integer input and tell if its magnitude is smaller than 69 or not.
 import java.util.Scanner;
 
-public class homework08 {
+public class ElseIf08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : ");  // -34

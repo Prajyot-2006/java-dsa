@@ -1,0 +1,2 @@
+// problem no 387 on leetcode
+//  First Unique Character in a String
