@@ -1,6 +1,6 @@
 // we learned about passByvalue 
 
-public class passByvalue06 {
+public class passByvalue07 {
 
     public static void change(int x) {
         x = 10;  // this is different variable 

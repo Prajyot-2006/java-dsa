@@ -1,0 +1,5 @@
+In Java, there is no true global variable.
+
+Many beginners call a variable outside methods a "global variable", but Java doesn't support global variables the way some other languages do.
+
+So if someone says global variable in Java, they usually mean a variable declared outside methods (inside a class).

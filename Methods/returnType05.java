@@ -1,5 +1,5 @@
 
-public class returnType04 {
+public class returnType05 {
 // we can make any data types function like public static double , char , int 
     public static int eren() {  // here int is the return type of this function that means this functions value is integer and its 5(bcz we are returning 5)
         System.out.println("Human");

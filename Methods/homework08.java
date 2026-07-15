@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class homework07 {
+public class homework08 {
     public static void swap(int a, int b) {
         int temp = a;
         a = b;  // a ke andar successfully b aaya hai 

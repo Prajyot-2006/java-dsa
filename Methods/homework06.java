@@ -4,7 +4,7 @@ nCr and nPr.
 
 import java.util.Scanner;
 
-public class homework05 {
+public class homework06 {
 
     public static int factorial(int x) {
         int fact = 1;
