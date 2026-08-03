@@ -7,7 +7,8 @@ ___Rukia______ if number is divisible by 5 & 3 both
 ___Shinji______ if number is not divisible by 5 or 3
 */
 
-
+// We use else if when only one condition should execute.
+// The second condition is not checked because the first one is already true.  for this take inteher = 15
 import java.util.Scanner;
 
 public class ElseIf06 {

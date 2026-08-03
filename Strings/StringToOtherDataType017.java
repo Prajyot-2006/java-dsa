@@ -26,6 +26,13 @@ public class StringToOtherDataType017 {
         for(int i=0;i<arr.length;i++) {
             System.out.print(arr[i] + " ");
         }
+        System.out.println();
+
+        // direct String array : we can directly make string array itself
+        String message[] = {"hi","yokoso","watashi","no soul society"};
+        for (String ele : message) {
+            System.out.print(ele + " ");
+        }
     }
     
 }

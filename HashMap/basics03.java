@@ -8,7 +8,7 @@ public class basics03 {
         for(int i=0;i<arr.length;i++) {
             int num = arr[i];
 
-            if(map.containsKey(num)) {
+            if(map.containsKey(num)) {  // incrementing a keys value
                 map.put(num, map.get(num)+1);
             }
             else{

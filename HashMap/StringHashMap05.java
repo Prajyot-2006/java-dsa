@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class StringHashMap04 {
+public class StringHashMap05 {
     public static void main(String[] args) {
 
         String s = "banana";

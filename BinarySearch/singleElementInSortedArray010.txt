@@ -1,0 +1,1 @@
+refer singleElementInSortedArray0 in LC : 540

@@ -1,5 +1,5 @@
 // this is built-in function
-public class impStringFnForHashMap05 {
+public class impStringFnForHashMap06 {
     public static void main(String[] args) {
     String s = "dog cat cat dog";
 
