@@ -4,11 +4,10 @@ public class PassingStringInFunction06 {
         s = "Pranav";
     }
 
-
     public static void main(String[] args) {
         String s = "Prajyot";
         System.out.println(s);
         change(s); 
-        System.out.println(s);
+        System.out.println(s);  // not changed , so it is pass by value not refernce
     }
 }

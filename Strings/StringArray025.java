@@ -1,4 +1,4 @@
-public class StringArray024 {
+public class StringArray025 {
     public static void main(String[] args) {
         // direct String array : we can directly make string array itself
         String message[] = {"hi","yokoso","watashi","no soul society"};

@@ -16,7 +16,14 @@ public class basicsHMCreation01 {
             System.out.println(key + " -> " + map.get(key));
         }
         // u can check this map.keySet() provides all present key's 
-        System.out.println(map.keySet());
+        System.out.println(map.keySet());  // but not in guarenteed order ; order can change 
+
+        // map.values returns all values
+        for (int value : map.values()) {
+            System.out.println(value);
+        }
+        // can check the values list
+        System.out.println(map.values());
 
     }
 }

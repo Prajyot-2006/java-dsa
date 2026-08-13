@@ -14,7 +14,8 @@ public class basics02 {
         System.out.println(arr);  // 10,20,30,40
         arr.add(1,15 ); // 10,15,20,30,40
         System.out.println(arr);
-        arr.remove(arr.size()-1);  // removes 4th index element 
+        arr.remove(arr.size()-2);  // removes 3rd index element 
         System.out.println(arr.size());  // now check the size , it is updated 
+        System.out.println(arr);
     }
 }
