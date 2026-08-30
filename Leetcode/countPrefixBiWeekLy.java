@@ -6,7 +6,6 @@ public class countPrefixBiWeekLy {
         int ans = 0;
 
         for (int i = 0; i < s.length(); i++) {
-
             if (s.charAt(i) == '0') {
                 count0++;
             } 
@@ -18,7 +17,6 @@ public class countPrefixBiWeekLy {
                 ans++;
             }
         }
-
         System.out.println(ans);
     }
 }

@@ -5,7 +5,7 @@ public class StringCannotReverse03 {
     public static void main(String[] args) {
         // java doesnt support builtin method for string reverse 
         String s = "prajyot";
-        // System.out.println(s.reverse());  in java we cant do like this
+        // System.out.println(s.reverse());  in java we can't do like this
         // we can do it manually or either we can do it using string builder
         StringBuilder sb = new StringBuilder(s);
         sb.reverse();
