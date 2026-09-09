@@ -2,11 +2,11 @@ class Car {
     int seats;   // 0
     String name;   // null
     double length;  // 0.0
-/* 
+ 
     Car() {  // default constructor
 
     }
-*/
+
     Car(int x , String s , double d) {  // this is constructor
         seats = x;
         name = s;
@@ -17,7 +17,7 @@ class Car {
     }
 }
 
-public class Constructor08 {
+public class Constructor09 {
     public static void main(String[] args) {
         Car c1 = new Car(7 , "Ertiga" , 5.6);
         System.out.println(c1.name);

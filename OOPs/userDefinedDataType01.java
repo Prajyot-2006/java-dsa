@@ -5,7 +5,7 @@ public class userDefinedDataType01 {
         double cgpa;   // default value 0.0
     }
     public static void main(String[] args) {
-        Student s1 = new Student();  //  declaration , this is object
+        Student s1 = new Student();  //  declaration , this is object  
         s1.name = "Prajyot";
         s1.rno = 76;
         s1.cgpa = 7.57;

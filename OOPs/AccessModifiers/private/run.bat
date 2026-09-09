@@ -8,7 +8,7 @@ if %errorlevel% neq 0 pause & exit /b
 
 java %1
 
-del %1.class
+del /q *.class
 
 echo.
 echo --- Finished ---
