@@ -1,5 +1,6 @@
 -- Write a query to find the number of employees in each department.
 use temp;
+select * from employees;
 select department , count(*) as employee_count
 from employees
 group by department;

@@ -5,3 +5,6 @@ select e.employee_name , e.salary ,
 from employees e join employees m
 on e.manager_id = m.employee_id
 where e.salary > m.salary;
+
+-- printinmg table 
+select * from employees;
